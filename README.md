@@ -1,3 +1,5 @@
+![DamagedImportantAmurratsnake-size_restricted](https://user-images.githubusercontent.com/83091543/120242097-76aef000-c23a-11eb-88ea-ab5b4459bb1a.gif)
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=israel-97" alt="Israel-Dantas" /></p>
 
 <h1 align="center">Olá, Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
