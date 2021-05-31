@@ -1,12 +1,13 @@
-![DamagedImportantAmurratsnake-size_restricted](https://user-images.githubusercontent.com/83091543/120242097-76aef000-c23a-11eb-88ea-ab5b4459bb1a.gif)
+![Hello-World-1](https://user-images.githubusercontent.com/83091543/120242930-84657500-c23c-11eb-871a-a950f83b8061.gif)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=israel-97" alt="Israel-Dantas" /></p>
 
-<h1 align="center">Olá, Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"> Hi, I'm Israel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-Me chamo Israel e sou um estudante de desenvolvimento web focado em Java.
-
-- :computer: Atualmente estou participando do bootcamp desenvolvedor full stack Java júnior da <a href="https://brazil.generation.org" target="_blank">Generation</a>.
+- 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar um Dev fullstack. 
+- 👩🏽‍🎓 Estudante de Administração 
+- 👩🏽‍🏫 Salmos 119:66
+- ✌🏾 Acompanhe meu crescimento...
 
 ## Linguagens e Ferramentas
 <p> 
