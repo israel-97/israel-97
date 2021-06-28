@@ -1,4 +1,4 @@
-![Hello-World-1](https://user-images.githubusercontent.com/83091543/120242930-84657500-c23c-11eb-871a-a950f83b8061.gif)
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=israel-97" alt="Israel-Dantas" /></p>
 
