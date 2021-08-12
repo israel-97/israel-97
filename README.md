@@ -5,9 +5,6 @@
 <h1 align="center"> Hi, I'm Israel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 - 💻 Desenvolvedor Java Full-Stack Jr, formado pela <a href="https://brazil.generation.org" target="_blank">Generation</a>;
-- 👨🏻‍🎓 Estudante de Administração ;
-- 🙏🏻 Salmos 119:66 ;
-- 🤙🏻 Acompanhe meu crescimento...
 
 ## Linguagens e Ferramentas
 <p> 
@@ -44,4 +41,6 @@
 
 ![Estatísticas do Github do Renato](https://github-readme-stats.vercel.app/api?username=israel-97&show_icons=true&theme=gruvbox)
 [![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=israel-97&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-97&layout=compact&theme=highcontrast)
 
