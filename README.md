@@ -1,4 +1,4 @@
-
+![Snake animation](https://github.com/israel-97/israel-97/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=israel-97" alt="Israel-Dantas" /></p>
 
